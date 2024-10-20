@@ -22,7 +22,7 @@ Technical Stack :
 
 Explore More :
 - 500px account, to see all the pictures featured in the app : https://500px.com/p/florent_dartora?view=photos
-- GitHub account, to access my Web-GIS Portfolio and app code : https://github.com/FlorentDartora/WEBGIS_PORTFOLIO
+- GitHub account, to access my Web-GIS Portfolio and app code : https://github.com/FlorentDartora/Map_My_Memories
 
 Feedback is welcome!
 For any comment or suggestions, feel free to reach me at dartora.florent@gmail.com.
