@@ -21,7 +21,7 @@ Technical Stack :
 - Back-End : A node.js Express Server wrapped and deployed into AWS Lambda. APIs are exposed throught AWS API Gateway. 
 
 Explore More :
-- 500px account, to see all the pictures featured in the app : https://500px.com/p/florent_dartora?view=photos
+- 500px account, to see all the pictures featured in the app : https://500px.com/p/florent_dartora?view=galleries
 - GitHub account, to access my Web-GIS Portfolio and app code : https://github.com/FlorentDartora/Map_My_Memories
 
 Feedback is welcome!
